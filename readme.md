@@ -9,3 +9,5 @@ Con el objetivo de consolidar lo aprendido acerca de documentación de software,
 2. [¿Qué tipos de documentación existen?](docs/tipos.md)
 
 3. [Estilo del documento](docs/estilo.md)
+
+4. [documentación de código](docs/código.md)
