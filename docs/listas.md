@@ -1,5 +1,5 @@
 
-## Listas
+# Listas
 
 Las listas y las tablas son útiles porque hacen hincapié en elementos de interés. Cuando vemos listas o tablas con elementos puntuales nuestra atención se enfoca en ello. Además de facilitar la lectura, también crean más espacio en blanco en nuestros documentos y extienden el texto para que las páginas no parezcan hojas estáticas repletas de letras.
 
@@ -51,6 +51,3 @@ Las **listas no ordenadas** se usan para mostrar una serie de elementos sin un o
 - Puedes aprovechar la función “estilos” o “formatos” de tu software para crear listas verticales en lugar de construirlas manualmente.
 - Inicia los elementos en las listas de acciones con un verbo imperativo. Por ejemplo: "Escribe tu nombre de usuario y contraseña".
 - Utiliza mayúsculas y puntuación adecuadamente.
-
-<br />
-

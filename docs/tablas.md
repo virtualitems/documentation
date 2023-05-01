@@ -1,4 +1,4 @@
-## Tablas
+# Tablas
 
 Una tabla es una estructura de datos compuesta por filas y columnas. Sirve para organizar información de manera clara y ordenada, utilizando celdas.
 
