@@ -11,3 +11,7 @@ Con el objetivo de consolidar lo aprendido acerca de documentación de software,
 3. [Estilo del documento](docs/estilo.md)
 
 4. [documentación de código](docs/código.md)
+
+5. [uso de listas](docs/listas.md)
+
+6. [uso de tablas](docs/tablas.md)
