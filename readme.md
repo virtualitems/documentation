@@ -4,6 +4,6 @@ Con el objetivo de consolidar lo aprendido acerca de documentación de software,
 
 ## Índice
 
-1. [¿Qué es documentación de software?](definición.md)
+1. [¿Qué es documentación de software?](docs/definición.md)
 
-2. [¿Qué tipos de documentación existen?](tipos.md)
+2. [¿Qué tipos de documentación existen?](docs/tipos.md)
