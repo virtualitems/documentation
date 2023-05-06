@@ -29,3 +29,5 @@ Con el objetivo de consolidar lo aprendido acerca de documentación de software,
     - [5.1 Fase de exploración](docs/fases/exploración.md)
 
     - [5.2 Fase de análisis de requerimientos](docs/fases/análisis.md)
+
+    - [5.3 Fase de diseño de la solución](docs/fases/diseño.md)
