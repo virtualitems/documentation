@@ -23,3 +23,7 @@ Con el objetivo de consolidar lo aprendido acerca de documentación de software,
     - [2.4 uso de tablas](docs/textos/tablas.md)
 
 - [4. Documentación basada en diagramas](#)
+
+- [5. Fases de la documentación de software](#)
+
+    - [5.1 Fase de exploración](docs/fases/exploración.md)
