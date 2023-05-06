@@ -10,7 +10,9 @@ Con el objetivo de consolidar lo aprendido acerca de documentación de software,
 
     - [1.2 ¿Qué tipos de documentación existen?](docs/tipos.md)
 
-- [2. Documentación basada en texto](#)
+- [2. Metadatos de la documentación](docs/meta.md)
+
+- [3. Documentación basada en texto](#)
 
     - [2.1 Estilo del documento](docs/textos/estilo.md)
 
