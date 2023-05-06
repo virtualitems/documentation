@@ -21,3 +21,5 @@ Con el objetivo de consolidar lo aprendido acerca de documentación de software,
     - [2.3 uso de listas](docs/textos/listas.md)
 
     - [2.4 uso de tablas](docs/textos/tablas.md)
+
+- [4. Documentación basada en diagramas](#)
