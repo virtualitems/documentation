@@ -4,14 +4,18 @@ Con el objetivo de consolidar lo aprendido acerca de documentación de software,
 
 ## Índice
 
-1. [¿Qué es documentación de software?](docs/definición.md)
+- [1. Conceptos generales](#)
 
-2. [¿Qué tipos de documentación existen?](docs/tipos.md)
+    - [1.1 ¿Qué es documentación de software?](docs/definición.md)
 
-3. [Estilo del documento](docs/estilo.md)
+    - [1.2 ¿Qué tipos de documentación existen?](docs/tipos.md)
 
-4. [documentación de código](docs/código.md)
+- [2. Documentación basada en texto](#)
 
-5. [uso de listas](docs/listas.md)
+    - [2.1 Estilo del documento](docs/textos/estilo.md)
 
-6. [uso de tablas](docs/tablas.md)
+    - [2.2 documentación de código](docs/textos/código.md)
+
+    - [2.3 uso de listas](docs/textos/listas.md)
+
+    - [2.4 uso de tablas](docs/textos/tablas.md)
