@@ -15,7 +15,7 @@ La medida depende del equipo que realice el trabajo.
 <br />
 
 
-# Tipo de desarrollo según la dificultad
+## Tipo de desarrollo según la dificultad
 
 Esta clasificación indica de manera abstracta el esfuerzo que se debe invertir en el desarrollo e influye en la cantidad de información que se debe solicitar y documentación que se debe entregar.
 
