@@ -24,7 +24,7 @@ Con el objetivo de consolidar lo aprendido acerca de documentación de software,
 
 - [4. Documentación basada en diagramas](#)
 
-- [5. Fases de la documentación de software](#)
+- [5. Fases de documentación en un proyecto de software](#)
 
     - [5.1 Fase de preámbulo](docs/fases/preámbulo.md)
 
