@@ -3,13 +3,13 @@
 
 Las listas y las tablas son útiles porque hacen hincapié en elementos de interés. Cuando vemos listas o tablas con elementos puntuales nuestra atención se enfoca en ello. Además de facilitar la lectura, también crean más espacio en blanco en nuestros documentos y extienden el texto para que las páginas no parezcan hojas estáticas repletas de letras.
 
-<br />
+<br/>
 
 Usualmente representamos información agrupada como listas embebidas en una frase. Por ejemplo:
 
 > CodeDeploy puede implementar una variedad de contenidos prácticamente ilimitada, entre las que se incluyen código, funciones lambda, archivos de configuración, ejecutables, paquetes, scripts y archivos multimedia.
 
-<br />
+<br/>
 
 Pero esto se puede reescribir de forma más clara con una lista:
 
@@ -22,7 +22,7 @@ Pero esto se puede reescribir de forma más clara con una lista:
 > - Scripts.
 > - Archivos multimedia.
 
-<br />
+<br/>
 
 Existen dos tipos de listas: listas ordenadas y listas no ordenadas.
 
@@ -38,7 +38,7 @@ Las **listas no ordenadas** se usan para mostrar una serie de elementos sin un o
 - Crear el formulario de inicio de sesión.
 - Crear el formulario de recuperación de contraseña.
 
-<br />
+<br/>
 
 **Consejos** para escribir listas:
 

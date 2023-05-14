@@ -13,7 +13,7 @@ El estilo de un documento se puede definir por medio de las siguientes caracter�
 - **Claridad**: se refiere a la facilidad con la que el lector puede entender el contenido del documento.
 
 
-<br>
+<br/>
 
 ## Tono
 
@@ -32,7 +32,7 @@ Utiliza palabras y estructuras de oraciones sencillas y coloquiales. El lenguaje
 Se suele emplear en documentos no técnicos o descripciones generales.
 
 
-<br>
+<br/>
 
 ## Persona gramatical
 
@@ -46,13 +46,13 @@ Por ejemplo:
 - "El usuario debe hacer click en el botón «Nuevo»".
 
 
-<br />
+<br/>
 
 ## Voz verbal
 
 La voz verbal se usa para indicar quién realiza la acción del verbo. Existen dos tipos de voz verbal: la voz activa y la voz pasiva.
 
-<br>
+<br/>
 
 ### Voz activa
 
@@ -68,11 +68,11 @@ Es importante tener en cuenta que los verbos imperativos son voz activa. Un verb
 
 Estas frases que inician con un vervo imperativo están en voz activa, aunque no mencionan directamente a un sujeto, ya que el sujeto implícito es el lector.
 
-<br />
+<br/>
 
 > voz activa = sujeto + verbo + objetivo
 
-<br />
+<br/>
 
 ### Voz pasiva
 
@@ -92,18 +92,18 @@ Si la frase contiene un sujeto, normalmente la preposición “por” sigue al v
 - Es reconocido por la universidad.
 - Es programado por los estudiantes.
 
-<br />
+<br/>
 
 > voz pasiva = objetivo + verbo + sujeto
 
-<br />
+<br/>
 
 ### ¿Cuál voz elegir?
 
 El standard para escribir documentación es la **voz activa**, porque es más corta e interesante de leer. Además, la voz activa muestra claramente al sujeto en una situación, cuando leemos en esta voz gramatical sabemos quién hace qué y a quién.
 
 
-<br />
+<br/>
 
 ## Claridad
 
@@ -112,7 +112,7 @@ En la escritura técnica, la claridad es lo más importante. **Las frases que es
 Cuando escribimos documentos, independientemente de que sean técnicos o no, se debe tomar en cuenta que nuestros lectores NO siempre leerán todo nuestro contenido. Harán un escaneo rápido del texto y buscarán los elementos de su interés.
 
 
-<br />
+<br/>
 
 ## Simplicidad
 
@@ -120,7 +120,7 @@ Cuando escribimos documentos, independientemente de que sean técnicos o no, se 
 
 Una frase del filósofo Blaise Pascal.
 
-<br />
+<br/>
 
 Es más difícil escribir frases cortas, ya que nos obligan a organizar nuestras ideas e información. El estilo breve es más exigente y requiere mucha disciplina, pero es la manera más eficaz de transmitir un mensaje.
 
@@ -129,13 +129,13 @@ Normalmente, cuando escribimos sobre algún tema, las ideas comienzan a disparar
 Si tenemos frases muy largas, es señal de que debemos dividirlas en dos o tres frases breves. Tampoco debemos escribir como si fuera un telegrama, hay que saber balancear, cada frase puede ser un concepto o una idea.
 
 
-<br />
+<br/>
 
 ## Lenguaje ubicuo
 
 se refiere al lenguaje común que se utiliza tanto por los programadores como por los expertos del proceso. Es un lenguaje que todos los involucrados en el proyecto entienden y utilizan para describir las funcionalidades, componentes y características del sistema. Esto ayuda a evitar malentendidos y errores de comunicación que pueden surgir cuando los programadores y los expertos en el negocio hablan diferentes "idiomas".
 
-<br />
+<br/>
 
 Para formar un lenguaje ubicuo, se debe tener en cuenta lo siguiente:
 

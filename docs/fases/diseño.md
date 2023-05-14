@@ -4,14 +4,14 @@ En esta fase se asume que se ha entendido el contexto del sistema y las necesida
 
 Las soluciones planteadas dependen de la experiencia del analista, y al iniciar serán conceptuales. Una vez se contemplen las posibles soluciones, se debe escoger la más adecuada con técnicas de análisis como pruebas de concepto. Finalmente se debe realizar un diseño técnico de la solución elegida.
 
-<br />
+<br/>
 
 
 ## Tamaño
 
 El tamaño del desarrollo indica la cantidad de líneas de código que se deben crear o modificar.
 
-<br />
+<br/>
 
 El tamaño se divide en los siguientes niveles:
 

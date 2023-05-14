@@ -4,7 +4,7 @@ El primer paso del proceso de documentación es conocer la metainformación del 
 
 A continuación se presentan la metainformación sugerida para la documentación en desarrollo de software.
 
-<br />
+<br/>
 
 
 ## Prioridad
@@ -12,7 +12,7 @@ A continuación se presentan la metainformación sugerida para la documentación
 La prioridad indica la importancia del trabajo a realizar e influye en el orden en que se realizan las tareas.
 La medida depende del equipo que realice el trabajo.
 
-<br />
+<br/>
 
 
 ## Tipo de desarrollo según la dificultad
@@ -21,7 +21,7 @@ Esta clasificación indica de manera abstracta el esfuerzo que se debe invertir 
 
 Al entender el tipo de desarrollo, puedes evitar perder tiempo en recopilar información innecesaria o escribir documentos que no aportan valor al proyecto.
 
-<br />
+<br/>
 
 Las categorías ordenadas de mayor a menor son:
 

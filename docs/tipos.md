@@ -8,7 +8,7 @@ Existen diferentes tipos de documentación de software, personalmente los clasif
 
 - **El propósito de la documentación** (descripción, especificación, etc.).
 
-<br />
+<br/>
 
 ## Según el elemento
 
@@ -28,7 +28,7 @@ Ejemplos de elementos pueden ser:
 
 Dependiendo del elemento, la documentación puede variar en forma y contenido. Por ejemplo, la documentación de un proyecto puede incluir cronogramas, diagramas, listas de tareas, etc. Mientras que la documentación del código puede ser tan simple como un comentario en el código fuente.
 
-<br />
+<br/>
 
 ## Según el perfil del lector
 
@@ -44,7 +44,7 @@ Ejemplos de perfiles pueden ser:
 
 Entender el perfil del lector es importante para determinar la forma en que se debe presentar la información. Por ejemplo, cuando leemos una publicación en el periódico acerca de alguna investigación, este artículo debería utilizar un lenguaje dirigido a un público no especializado. Por otro lado, el informe de la misma investigación para científicos o profesionales del tema tendrá un enfoque distinto.
 
-<br>
+<br/>
 
 Una correcta documentación debe tener en cuenta las fórmulas:
 
@@ -56,7 +56,7 @@ Una correcta documentación debe tener en cuenta las fórmulas:
 
 > buen lenguaje = emplear palabras que el lector entienda
 
-<br />
+<br/>
 
 ## Según el próposito
 

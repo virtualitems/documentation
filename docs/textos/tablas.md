@@ -2,7 +2,7 @@
 
 Una tabla es una estructura de datos compuesta por filas y columnas. Sirve para organizar información de manera clara y ordenada, utilizando celdas.
 
-<br />
+<br/>
 
 Ejemplo de tabla que describe las versiones de un software:
 
@@ -12,7 +12,7 @@ Ejemplo de tabla que describe las versiones de un software:
 | 1.1     | 15/01/2020           | Se agregó la función de exportar a PDF   |
 | 1.2     | 10/02/2020           | Se agregó la función de exportar a Excel |
 
-<br />
+<br/>
 
 Ten en cuenta las siguientes directrices al crear tablas:
 

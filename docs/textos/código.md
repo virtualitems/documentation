@@ -3,7 +3,7 @@
 Existen dos formas de documentar código:
 
 
-<br />
+<br/>
 
 ## En el código fuente
 
@@ -40,21 +40,21 @@ Los comentarios de varias líneas ( /* */ ) SÍ tienen reglas de documentación 
 
 No obstante, aunque la sintaxis varíe, los comentarios de varias líneas suelen incluir:
 
-<br>
+<br/>
 
 - **Para clases:**
     - Una descripción general de la clase.
     - Una descripción de la herencia de la clase.
     - Una descripción de los atributos de la clase.
 
-<br>
+<br/>
 
 - **Para funciones y métodos:**
     - Una descripción general del código.
     - Una descripción de los datos de entrada y de salida.
     - Una descripción de los errores que puede lanzar el código.
 
-<br />
+<br/>
 
 ## En un documento aparte
 
