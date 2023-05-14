@@ -36,6 +36,6 @@ Con el objetivo de consolidar lo aprendido acerca de documentación de software,
 
     - [6.4 Fase de diseño de la solución](docs/fases/diseño.md)
 
-    - [6.5 Fase de seguimiento de la implementación](#)
+    - [6.5 Fase de seguimiento de la implementación](docs/fases/implementación.md)
 
     - [6.6 Fase de entrega](#)
