@@ -7,7 +7,7 @@ Formato recomendado para escribir manuales de procedimientos en Markdown.
 ```markdown
 # Guía acerca de ""tema"" para ""perfil del lector""
 
-_**Fecha:** 00/00/0000 **Versión:** 0.0.0 **Autor:** nombre <contacto@example.com>_
+_**Fecha:** 00/00/0000 **Versión del sistema:** 0.0.0 **Autor:** nombre <contacto@example.com>_
 
 ## Introducción
 <!-- Explica el marco conceptual del procedimiento -->
