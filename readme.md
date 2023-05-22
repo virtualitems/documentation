@@ -20,6 +20,8 @@ Con el objetivo de consolidar lo aprendido acerca de documentación de software,
 
     - [4.2 documentación de código](docs/textos/código.md)
 
+    - [4.3 documentación de buenas prácticas](docs/textos/prácticas.md)
+
     - [4.3 uso de listas](docs/textos/listas.md)
 
     - [4.4 uso de tablas](docs/textos/tablas.md)
