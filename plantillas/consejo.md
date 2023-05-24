@@ -19,7 +19,7 @@ _**Fecha:** 00/00/0000_
 <!-- Lista las advertencias que el lector debe tener en cuenta -->
 
 ## Anécdotas
-<!-- Cuenta anécdotas que corroboren la afirmación ->
+<!-- Cuenta anécdotas que corroboren la afirmación -->
 
 ## Referencias
 <!-- Lista documentos que refuercen o complementen los conceptos presentados -->
