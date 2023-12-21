@@ -31,12 +31,12 @@ La visión generalmente responde a las preguntas:
 El objetivo de una visión es definir la posición y el propósito a largo plazo del proyecto. Esto permite la alineación de los objetivos y las personas que trabajan en el proyecto hacia un propósito claro.
 
 Una buena visión debe ser:
-- Clara y concisa. Máximo 3 oraciones que comuniquen claramente la visión del proyecto.
-- Orientada al futuro. No se trata de como está el proyecto ahora, sino de como se espera que esté.
-- De duración determinada. Debe tener una fecha determinada en la que se espera que el proyecto alcance sus objetivos.
-- Basada en objetivos. Debe tener objetivos claros y cuantificables que se desean lograr.
-- Ambiciosa pero realista. Debe tener un objetivo ambicioso y aun así estar basada en la realidad.
-- Abstracta. No debe ser una guía completamente documentada, sino más bien una descripción general que le dé al proyecto una dirección estratégica amplia.
+- **Clara y concisa:** Máximo 3 oraciones que comuniquen claramente la visión del proyecto.
+- **Orientada al futuro:** No se trata de como está el proyecto ahora, sino de como se espera que esté.
+- **De duración determinada:** Debe tener una fecha determinada en la que se espera que el proyecto alcance sus objetivos.
+- **Basada en objetivos:** Debe tener objetivos claros y cuantificables que se desean lograr.
+- **Ambiciosa pero realista:** Debe tener un objetivo ambicioso y aun así estar basada en la realidad.
+- **Abstracta:** No debe ser una guía completamente documentada, sino más bien una descripción general que le dé al proyecto una dirección estratégica amplia.
 
 # Épica (epic)
 
@@ -73,3 +73,20 @@ La dimensión se podría clasificar en:
 2. Cambios en varios archivos de un sólo directorio
 3. Cambios en varios directorios de un sólo sistema
 4. Cambios en varios sistemas
+
+# Fases del desarrollo
+
+Las Fases del Desarrollo son los pasos que se deben seguir al realizar el desarrollo del software.
+
+Estas fases son:
+- **Preámbulo:** El primer paso del proceso de documentación es conocer la metainformación del trabajo que se debe realizar.
+
+- **Exploración:** Comprende el contexto del sistema y determinar los procedimientos actuales utilizados por los usuarios.
+
+- **Análisis:** Identifica las necesidades de los usuarios y los criterios de aceptación para la solución que se proponga.
+
+- **Diseño:** Presenta diferentes alternativas para solucionar la necesidad y selecciona la más adecuada.
+
+- **Implementación:** Realiza la solución escogida en la fase de diseño.
+
+- **Entrega:** Entrega la solución creada con la documentación correspondiente.
