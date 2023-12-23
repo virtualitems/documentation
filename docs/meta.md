@@ -1,23 +1,16 @@
-# Metadatos de la documentación
-
-Los metadatos son datos que describen y brindan información sobre otros datos. Son datos acerca de los datos.
-
-Para la documentación de software se recomienda incluir los siguientes metadatos:
-
-<br/>
+# Metadatos de un documento de software
 
 ## Título
 
-Es un conjunto de palabras que resumen el contenido y propósito del documento. Debe ser breve y conciso.
+Es un conjunto de pocas palabras que resumen el contenido y propósito del documento.
 
-El título es importante para todo documento, ya que permite inferir el contenido y facilita la búsqueda y recuperación de información.
-
+El título permite inferir el contenido del documento y facilita la búsqueda y recuperación del archivo en un repositorio de documentos.
 
 <br/>
 
 ## Descripción del documento
 
-Es un texto que describe el contenido y tipo del documento. La descripción del documento debe estar en el encabezado del documento, asi el lector sabrá si el documento es de su interés.
+Es un texto que describe el contenido y tipo del documento. La descripción del documento debe estar en el encabezado del documento, asi el lector sabrá si es de su interés.
 
 <br/>
 
@@ -39,9 +32,7 @@ Ejemplo práctico:
 
 ## Autor
 
-El autor es la persona que escribe el documento.
-
-Para especificar el autor debes incluir un medio de contacto y datos que identifiquen a la persona.
+El autor es la persona que escribe el documento. Al especificar el autor debes incluir un medio de contacto y datos que identifiquen a la persona.
 
 Ejemplo:
 
@@ -52,26 +43,17 @@ Ejemplo:
 
 ## Fecha y versión
 
-La fecha es muy importante ya que el software evoluciona constantemente y la documentación puede quedar desactualizada. La documentación de una versión antigua puede ser confusa o errónea para un usuario con una versión más reciente.
+La fecha es muy importante ya que el software evoluciona constantemente y la documentación puede quedar desactualizada. La documentación antigua puede ser confusa o errónea para un usuario con una versión más reciente del software.
 
-<br/>
-
-El formato de la fecha queda a disposición del autor, pero se recomienda que al menos contenga:
-- Año de publicación
-- Mes de publicación
-- Día de publicación
-
-<br/>
+El formato de la fecha queda a disposición del autor, pero se recomienda que al menos contenga el año y mes de publicación.
 
 Como buena práctica, se recomienda agregar la versión del software al que hace referencia el documento.
-
 
 <br/>
 
 ## Licencia
 
-Si el software posee una licencia, la documentación debe incluirla.
-
+Si el software posee licencias, la documentación debe incluirla.
 
 <br/>
 
