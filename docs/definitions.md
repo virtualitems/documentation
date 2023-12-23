@@ -65,20 +65,3 @@ La dimensión se podría clasificar en:
 2. Cambios en varios archivos de un sólo directorio
 3. Cambios en varios directorios de un sólo sistema
 4. Cambios en varios sistemas
-
-# Fases del desarrollo
-
-Las Fases del Desarrollo son los pasos que se deben seguir al realizar el desarrollo del software.
-
-Estas fases son:
-- **Preámbulo:** El primer paso del proceso de documentación es conocer la metainformación del trabajo que se debe realizar.
-
-- **Exploración:** Comprende el contexto del sistema y determinar los procedimientos actuales utilizados por los usuarios.
-
-- **Análisis:** Identifica las necesidades de los usuarios y los criterios de aceptación para la solución que se proponga.
-
-- **Diseño:** Presenta diferentes alternativas para solucionar la necesidad y selecciona la más adecuada.
-
-- **Implementación:** Realiza la solución escogida en la fase de diseño.
-
-- **Entrega:** Entrega la solución creada con la documentación correspondiente.
