@@ -34,6 +34,22 @@ Para la documentación de software se recomienda incluir los siguientes metadato
 
 <br>
 
+# Niveles de documentación de software
+
+*Más conceptual*
+
+- **Visión (vision):** Es la declaración previsora de lo que se espera del proyecto en el futuro. [Ver más](docs/__.md).
+
+- **Épica (epic):** Es un conjunto de funcionalidades o características que se esperan del sistema. [Ver más](docs/__.md).
+
+- **Característica (feature):** Es un conjunto de interacciones que se esperan del sistema. [Ver más](docs/__.md).
+
+- **Historia de usuario (user story):** Es la descripción de una interacción con sistema desde la perspectiva del usuario. [Ver más](docs/__.md).
+
+*Más técnico*
+
+<br>
+
 # Fases de la documentación de software
 
 Las Fases del Desarrollo son los pasos que se siguen al realizar un proyecto de documentación de software.
