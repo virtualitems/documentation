@@ -12,7 +12,7 @@ Estos niveles suelen ser:
 
 # Visión (vision)
 
-Es una declaración previsora de lo que se espera del proyecto más adelante.
+Es una declaración previsora de lo que se espera del proyecto en el futuro.
 
 La visión generalmente responde a las preguntas:
 - ¿A quién atiende el proyecto?

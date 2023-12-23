@@ -26,7 +26,19 @@ La documentación de software es importante porque:
 
 <br>
 
-# Metadatos de un documento
+# Clasificación de la documentación de software
+
+Existen diferentes tipos de documentación de software. Con el fin de facilitar su comprensión, personalmente los clasifico según tres dimensiones:
+
+- **El elemento documentado:** La primera dimensión se refiere al elemento en sí. Por ejemplo: un requisito, un procedimiento, código, etc.
+
+- **El perfil del lector:** La segunda dimensión corresponde a quién va dirigido el documento. Por ejemplo: desarrolladores, usuarios, analistas, etc.
+
+- **El propósito de la documentación:** La tercera dimensión es el tipo de información que se desea comunicar. Por ejemplo: descripción actual del sistema, especificación de lo que se implementará, etc.
+
+<br>
+
+# Metadatos de un documento de software
 
 Los metadatos son datos acerca del documento en sí.
 
