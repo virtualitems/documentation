@@ -50,15 +50,15 @@ Para la documentación de software se recomienda incluir los siguientes metadato
 
 *Más conceptual*
 
-- **Visión (vision):** Es la declaración previsora de lo que se espera del proyecto en el futuro. [Ver más](docs/__.md).
+- [Visión (vision)](docs/levels/visions.md): Es la declaración previsora de lo que se espera del proyecto en el futuro.
 
-- **Épica (epic):** Es un grupo de funcionalidades o características que responden a una misma necesidad que el sistema debe satisfacer. [Ver más](docs/__.md).
+- [Épica (epic)](docs/levels/epics.md): Es un grupo de funcionalidades o características que responden a una misma necesidad que el sistema debe satisfacer.
 
-- **Característica (feature):** Es una funcionalidad definida por un conjunto de interacciones. [Ver más](docs/__.md).
+- [Característica (feature)](docs/levels/features.md): Es una funcionalidad definida por un conjunto de interacciones.
 
-- **Caso de uso (user story):** Es la descripción de una interacción con sistema desde la perspectiva del usuario. [Ver más](docs/__.md).
+- [Caso de uso (user story)](docs/levels/use_cases.md): Es la descripción de una interacción con sistema desde la perspectiva del usuario.
 
-**Implementación (implementation):** Es la descripción técnica de cómo se implementó una funcionalidad. [Ver más](docs/__.md).
+- [Implementación (implementation)](docs/levels/implementation.md): Es la descripción técnica de cómo se implementó una funcionalidad.
 
 *Más técnico*
 
@@ -70,48 +70,48 @@ Las Fases del Desarrollo son los pasos que se siguen al realizar un proyecto de 
 
 Estas fases son:
 
-- **Preámbulo:** El primer paso del proceso de documentación es conocer la metainformación del trabajo que se debe realizar. [Ver más](docs/__.md).
+- [Preámbulo](docs/phases/preamble.md): El primer paso del proceso de documentación es conocer la metainformación del trabajo que se debe realizar.
 
-- **Exploración:** Durante la exploración debes comprender el contexto del sistema y determinar los procedimientos actuales utilizados por los usuarios. [Ver más](docs/__.md).
+- [Exploración](docs/phases/exploration.md): Durante la exploración debes comprender el contexto del sistema y determinar los procedimientos actuales utilizados por los usuarios.
 
-- **Análisis:** El análisis de requerimientos implica identificar las necesidades de los usuarios y los criterios de aceptación para la solución que se proponga. [Ver más](docs/__.md).
+- [Análisis](docs/phases/analisys.md): El análisis de requerimientos implica identificar las necesidades de los usuarios y los criterios de aceptación para la solución que se proponga.
 
-- **Diseño:** Para el diseño de la solución debes presentar diferentes alternativas como solución a la necesidad y seleccionar la más adecuada. [Ver más](docs/__.md).
+- [Diseño](docs/phases/design.md): Para el diseño de la solución debes presentar diferentes alternativas como solución a la necesidad y seleccionar la más adecuada.
 
-- **Implementación:** Haz seguimiento al desarrollo y agrega textos técnicos acerca de la implementación. [Ver más](docs/__.md).
+- [Implementación](docs/phases/implementation.md): Haz seguimiento al desarrollo y agrega textos técnicos acerca de la implementación.
 
-- **Entrega:** Agrega detalles, notas y advertencias finales. Entrega la solución creada con la documentación correspondiente. [Ver más](docs/__.md).
+- [Entrega](docs/phases/delivery.md): Agrega detalles, notas y advertencias finales. Entrega la solución creada con la documentación correspondiente.
 
 <br>
 
 # Secciones de un documento de software
 
 _**Abstract**_
-- [Página inicial](docs/__.md)
-- [Prefacio](docs/__.md)
-- [Glosario](docs/__.md)
+- [Página inicial](docs/sections/initial_page.md)
+- [Prefacio](docs/sections/preface.md)
+- [Glosario](docs/sections/glossary.md)
 
 _**Documentación no técnica** (La documentación no técnica son descripciones e instrucciones claras para un público que puede no estar familiarizado con los detalles del sistema o los procesos.)_
 
-- [Anexos](docs/__.md)
-- [Reuniones](docs/__.md)
-- [Procesos](docs/__.md)
-- [Requerimientos](docs/__.md)
-- [Casos de uso](docs/__.md)
-- [Plan de pruebas](docs/__.md)
-- [Notas y advertencias acerca de las decisiones tomadas](docs/__.md)
+- [Anexos](docs/sections/annexes.md)
+- [Reuniones](docs/sections/meetings.md)
+- [Procesos](docs/sections/processes.md)
+- [Requerimientos](docs/sections/requirements.md)
+- [Casos de uso](docs/sections/use_cases.md)
+- [Plan de pruebas](docs/sections/test_plan.md)
+- [Notas y advertencias acerca de las decisiones tomadas](docs/sections/notes.md)
 
 _**Documentación técnica** (La documentación técnica describe y explica aspectos tecnológicos, características y funciones del software, como su arquitectura, diseño, algoritmos o APIs, con el objetivo de facilitar su comprensión, mantenimiento y colaboración entre desarrolladores.)_
 
-- [Topología](docs/__.md)
-- [Componentes de software](docs/__.md)
-- [Diagramas de bases de datos](docs/__.md)
-- [Especificación de APIs](docs/__.md)
-- [Algoritmos de servicios](docs/__.md)
-- [Lista de permisos nuevos](docs/__.md)
-- [Tareas y actividades](docs/__.md)
+- [Topología](docs/sections/topology.md)
+- [Componentes de software](docs/sections/software_components.md)
+- [Diagramas de bases de datos](docs/sections/database_diagrams.md)
+- [Especificación de APIs](docs/sections/api_specification.md)
+- [Algoritmos de servicios](docs/sections/service_algorithms.md)
+- [Lista de nuevos permisos](docs/sections/new_permissions.md)
+- [Tareas y actividades](docs/sections/tasks.md)
 
 _**Documentación de entrega** (La documentación de entrega va dirigidada a los usuarios finales del sistema)_
 
-- [Manual de instalación](docs/__.md)
-- [Manual de uso](docs/__.md)
+- [Manual de instalación](docs/sections/installation.md)
+- [Manual de uso](docs/sections/usage.md)
