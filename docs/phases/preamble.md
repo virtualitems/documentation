@@ -21,3 +21,19 @@ Al entender el nivel de la documentación, puedes evitar perder tiempo en recopi
 ## Prioridad
 
 La prioridad indica la importancia del trabajo a realizar e influye en el orden en que se realizan las tareas.
+
+## Código del desarrollo
+
+Cada desarrollo tiene un código único que lo identifica. Este código se utiliza para referenciar el proyecto en el repositorio del código fuente y en el repositorio de documentación.
+
+## Página inicial
+
+La primera página le indica al lector el contenido y propósito del documento. Esta página debe incluir todos los [metadatos del documento](/docs/meta.md).
+
+## Prefacio
+
+El prefacio es un prólogo o introducción que resume en un sólo párrafo todo el contenido del documento.
+
+## Anexos
+
+Los anexos son archivos adicionales que complementan la información del documento principal. Los anexos pueden ser imágenes, videos, diagramas, audios, textos, etc.
