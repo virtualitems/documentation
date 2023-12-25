@@ -1,5 +1,7 @@
 [volver al inicio](/readme.md)
 
+[Ir a preámbulo](/docs/phases/preamble.md)
+
 # Metadatos de un documento de software
 
 ## Título
@@ -42,15 +44,3 @@ La fecha es muy importante ya que el software evoluciona constantemente y la doc
 El formato de la fecha queda a disposición del autor, pero se recomienda que al menos contenga el año y mes de publicación.
 
 Como buena práctica, se recomienda agregar la versión del software al que hace referencia el documento.
-
-<br/>
-
-## Licencia
-
-Si el software posee licencias, la documentación debe incluirla.
-
-<br/>
-
-## Referencias
-
-Si el documento hace referencia a otros documentos, se deben incluir los enlaces a los documentos referenciados.
