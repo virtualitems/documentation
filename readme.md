@@ -81,3 +81,37 @@ Estas fases son:
 - **Implementación:** Haz seguimiento al desarrollo y agrega textos técnicos acerca de la implementación. [Ver más](docs/__.md).
 
 - **Entrega:** Agrega detalles, notas y advertencias finales. Entrega la solución creada con la documentación correspondiente. [Ver más](docs/__.md).
+
+<br>
+
+# Secciones de un documento de software
+
+_**Abstract**_
+- [Página inicial](docs/__.md)
+- [Prefacio](docs/__.md)
+- [Glosario](docs/__.md)
+
+_**Documentación no técnica** (La documentación no técnica son descripciones e instrucciones claras para un público que puede no estar familiarizado con los detalles del sistema o los procesos.)_
+
+- [Anexos](docs/__.md)
+- [Reuniones](docs/__.md)
+- [Procesos](docs/__.md)
+- [Requerimientos](docs/__.md)
+- [Casos de uso](docs/__.md)
+- [Plan de pruebas](docs/__.md)
+- [Notas y advertencias acerca de las decisiones tomadas](docs/__.md)
+
+_**Documentación técnica** (La documentación técnica describe y explica aspectos tecnológicos, características y funciones del software, como su arquitectura, diseño, algoritmos o APIs, con el objetivo de facilitar su comprensión, mantenimiento y colaboración entre desarrolladores.)_
+
+- [Topología](docs/__.md)
+- [Componentes de software](docs/__.md)
+- [Diagramas de bases de datos](docs/__.md)
+- [Especificación de APIs](docs/__.md)
+- [Algoritmos de servicios](docs/__.md)
+- [Lista de permisos nuevos](docs/__.md)
+- [Tareas y actividades](docs/__.md)
+
+_**Documentación de entrega** (La documentación de entrega va dirigidada a los usuarios finales del sistema)_
+
+- [Manual de instalación](docs/__.md)
+- [Manual de uso](docs/__.md)
