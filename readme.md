@@ -116,3 +116,9 @@ _**Documentación de entrega** (La documentación de entrega va dirigidada a los
 - [Manual de instalación](docs/phases/delivery.md)
 - [Manual de uso](docs/phases/delivery.md)
 - [Registro de cambios](docs/phases/delivery.md)
+
+<br>
+
+# Apéndices
+
+- [Navegación y estructura](docs/navigation.md)
