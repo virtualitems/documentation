@@ -115,3 +115,4 @@ _**Documentación de entrega** (La documentación de entrega va dirigidada a los
 
 - [Manual de instalación](docs/sections/installation.md)
 - [Manual de uso](docs/sections/usage.md)
+- [Registro de cambios](docs/sections/changelog.md)
