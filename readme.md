@@ -87,32 +87,32 @@ Estas fases son:
 # Secciones de un documento de software
 
 _**Abstract**_
-- [Página inicial](docs/sections/initial_page.md)
-- [Prefacio](docs/sections/preface.md)
-- [Glosario](docs/sections/glossary.md)
+- [Página inicial](docs/phases/preamble.md)
+- [Prefacio](docs/phases/preamble.md)
+- [Glosario](docs/phases/exploration.md)
 
 _**Documentación no técnica** (La documentación no técnica son descripciones e instrucciones claras para un público que puede no estar familiarizado con los detalles del sistema o los procesos.)_
 
-- [Anexos](docs/sections/annexes.md)
-- [Reuniones](docs/sections/meetings.md)
-- [Procesos](docs/sections/processes.md)
-- [Requerimientos](docs/sections/requirements.md)
-- [Casos de uso](docs/sections/use_cases.md)
-- [Plan de pruebas](docs/sections/test_plan.md)
-- [Notas y advertencias acerca de las decisiones tomadas](docs/sections/notes.md)
+- [Anexos](docs/phases/preamble.md)
+- [Reuniones](docs/phases/exploration.md)
+- [Procesos](docs/phases/exploration.md)
+- [Requerimientos](docs/phases/analisys.md)
+- [Casos de uso](docs/phases/design.md)
+- [Plan de pruebas](docs/phases/design.md)
+- [Notas y advertencias acerca de las decisiones tomadas](docs/phases/design.md)
 
 _**Documentación técnica** (La documentación técnica describe y explica aspectos tecnológicos, características y funciones del software, como su arquitectura, diseño, algoritmos o APIs, con el objetivo de facilitar su comprensión, mantenimiento y colaboración entre desarrolladores.)_
 
-- [Topología](docs/sections/topology.md)
-- [Componentes de software](docs/sections/software_components.md)
-- [Diagramas de bases de datos](docs/sections/database_diagrams.md)
-- [Especificación de APIs](docs/sections/api_specification.md)
-- [Algoritmos de servicios](docs/sections/service_algorithms.md)
-- [Lista de nuevos permisos](docs/sections/new_permissions.md)
-- [Tareas y actividades](docs/sections/tasks.md)
+- [Topología](docs/phases/implementation.md)
+- [Componentes de software](docs/phases/implementation.md)
+- [Diagramas de bases de datos](docs/phases/implementation.md)
+- [Especificación de APIs](docs/phases/implementation.md)
+- [Algoritmos de servicios](docs/phases/implementation.md)
+- [Lista de nuevos permisos](docs/phases/implementation.md)
+- [Tareas y actividades](docs/phases/implementation.md)
 
 _**Documentación de entrega** (La documentación de entrega va dirigidada a los usuarios finales del sistema)_
 
-- [Manual de instalación](docs/sections/installation.md)
-- [Manual de uso](docs/sections/usage.md)
-- [Registro de cambios](docs/sections/changelog.md)
+- [Manual de instalación](docs/phases/delivery.md)
+- [Manual de uso](docs/phases/delivery.md)
+- [Registro de cambios](docs/phases/delivery.md)
