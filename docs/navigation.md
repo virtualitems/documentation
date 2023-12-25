@@ -1,3 +1,5 @@
+[volver al inicio](/readme.md)
+
 # Navegación y estructura de la documentación de software
 
 La navegación es la forma en que el lector puede moverse a través del contenido del documento. Una buena navegación permite que el lector encuentre fácilmente la información que necesita.

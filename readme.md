@@ -36,6 +36,8 @@ Existen diferentes tipos de documentación de software. Con el fin de facilitar 
 
 - **El propósito de la documentación:** La tercera dimensión es el tipo de información que se desea comunicar. Por ejemplo: descripción actual del sistema, especificación de lo que se implementará, etc.
 
+Esto se explica detalladamente [aquí](docs/classification.md).
+
 <br>
 
 # Metadatos de un documento de software
