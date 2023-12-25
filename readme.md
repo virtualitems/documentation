@@ -52,11 +52,13 @@ Para la documentación de software se recomienda incluir los siguientes metadato
 
 - **Visión (vision):** Es la declaración previsora de lo que se espera del proyecto en el futuro. [Ver más](docs/__.md).
 
-- **Épica (epic):** Es un conjunto de funcionalidades o características que se esperan del sistema. [Ver más](docs/__.md).
+- **Épica (epic):** Es un grupo de funcionalidades o características que responden a una misma necesidad que el sistema debe satisfacer. [Ver más](docs/__.md).
 
-- **Característica (feature):** Es un conjunto de interacciones que se esperan del sistema. [Ver más](docs/__.md).
+- **Característica (feature):** Es una funcionalidad definida por un conjunto de interacciones. [Ver más](docs/__.md).
 
-- **Historia de usuario (user story):** Es la descripción de una interacción con sistema desde la perspectiva del usuario. [Ver más](docs/__.md).
+- **Caso de uso (user story):** Es la descripción de una interacción con sistema desde la perspectiva del usuario. [Ver más](docs/__.md).
+
+**Implementación (implementation):** Es la descripción técnica de cómo se implementó una funcionalidad. [Ver más](docs/__.md).
 
 *Más técnico*
 
