@@ -14,8 +14,6 @@ El título permite inferir el contenido del documento y facilita la búsqueda y 
 
 Es un texto que describe el contenido y tipo del documento. La descripción del documento debe estar en el encabezado del documento, asi el lector sabrá si es de su interés.
 
-<br/>
-
 El siguiente es el esquema general de la frase inicial de un documento:
 
 > &lt;tipo de documento&gt;
@@ -23,14 +21,9 @@ El siguiente es el esquema general de la frase inicial de un documento:
 > para &lt;perfil del lector&gt;
 > con el fin de &lt;propósito&gt;
 
-<br/>
-
 Ejemplo práctico:
 
 > Manual de usuario acerca del funcionamiento del software de control de inventarios para el personal de almacén con el fin de capacitar al personal en el uso del sistema
-
-
-<br/>
 
 ## Autor
 
@@ -39,7 +32,6 @@ El autor es la persona que escribe el documento. Al especificar el autor debes i
 Ejemplo:
 
 > Autor: Jhon Doe ( jhon.doe@example.com )
-
 
 <br/>
 
