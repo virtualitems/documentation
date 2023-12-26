@@ -6,9 +6,13 @@ El primer paso del proceso de documentación es conocer la información acerca d
 
 A continuación se presentan la información sugerida para iniciar el proceso de documentación:
 
+<br>
+
 ## Solicitante
 
 El solicitante es la persona que requiere las funcionalidades implementadas. Conocer el perfil del solicitante permite entender el contexto de las necesidades que dan origen al desarrollo.
+
+<br>
 
 ## Nivel de la documentación
 
@@ -18,21 +22,31 @@ Esta clasificación indica de manera abstracta el propósito de la documentació
 
 Al entender el nivel de la documentación, puedes evitar perder tiempo en recopilar información innecesaria o escribir documentos que no aportan valor al proyecto.
 
+<br>
+
 ## Prioridad
 
 La prioridad indica la importancia del trabajo a realizar e influye en el orden en que se realizan las tareas.
+
+<br>
 
 ## Código del desarrollo
 
 Cada desarrollo tiene un código único que lo identifica. Este código se utiliza para referenciar el proyecto en el repositorio del código fuente y en el repositorio de documentación.
 
+<br>
+
 ## Página inicial
 
 La primera página le indica al lector el contenido y propósito del documento. Esta página debe incluir todos los [metadatos del documento](/docs/meta.md).
 
+<br>
+
 ## Prefacio
 
 El prefacio es un prólogo o introducción que resume en un sólo párrafo todo el contenido del documento.
+
+<br>
 
 ## Anexos
 
