@@ -123,9 +123,9 @@ _**Documentación de entrega** (La documentación de entrega va dirigidada a los
 
 # Apéndices
 
-- [Navegación y estructura](docs/navigation.md)
-
 - [Flujo de trabajo](docs/workflow.md)
+
+- [Navegación y estructura](docs/navigation.md)
 
 - [Licencias](docs/licenses.md)
 
