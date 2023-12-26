@@ -83,3 +83,17 @@ Los docstrings son comentarios que se agregan al código para documentar su func
 ## Artefacto
 
 La documentación de esta fase son el registro de tareas, el historial de versiones y los docstrings.
+
+## Topología
+
+## Componentes de software
+
+## Diagramas de bases de datos
+
+## Especificación de APIs
+
+## Algoritmos de servicios
+
+## Lista de nuevos permisos
+
+## Tareas y actividades

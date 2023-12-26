@@ -124,3 +124,7 @@ _**Documentación de entrega** (La documentación de entrega va dirigidada a los
 # Apéndices
 
 - [Navegación y estructura](docs/navigation.md)
+- Documentación basada en texto
+    - [listas](/docs/text/lists.md)
+    - [tablas](/docs/text/tables.md)
+    - [código](/docs/text/code.md)

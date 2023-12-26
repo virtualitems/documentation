@@ -1,4 +1,3 @@
-
 # Listas
 
 Las listas y las tablas son útiles porque hacen hincapié en elementos de interés. Cuando vemos listas o tablas con elementos puntuales nuestra atención se enfoca en ello. Además de facilitar la lectura, también crean más espacio en blanco en nuestros documentos y extienden el texto para que las páginas no parezcan hojas estáticas repletas de letras.
