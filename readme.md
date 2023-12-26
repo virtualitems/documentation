@@ -127,6 +127,10 @@ _**Documentación de entrega** (La documentación de entrega va dirigidada a los
 
 - [Flujo de trabajo](docs/workflow.md)
 
+- [Licencias](docs/licenses.md)
+
+- [Referencias](docs/references.md)
+
 - Documentación basada en texto
     - [listas](/docs/text/lists.md)
     - [tablas](/docs/text/tables.md)
