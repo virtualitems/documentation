@@ -22,7 +22,7 @@ Todo caso de uso siempre es iniciado por un actor.
 
 ## Relaciones
 
-Los casos de uso pueden relacionarse entre sí con relaciones de inclusión y extensión.
+Los casos de uso pueden relacionarse entre sí con relaciones de inclusión y extensión. La diferencia fundamental entre ambas es que la inclusión es obligatoria y la extensión es opcional.
 
 **Inclusión:** Un caso de uso incluye a otro cuando el primero no puede completarse sin el segundo.
 
