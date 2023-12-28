@@ -76,7 +76,6 @@ Para la documentación de software se recomienda incluir los siguientes metadato
 >        - Ingresar producto con rol de almacenista _(Caso de uso)_
 >            - Algoritmo de ingreso de producto _(Implementación)_
 
-
 <br>
 
 # Fases de la documentación de software
