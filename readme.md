@@ -64,6 +64,19 @@ Para la documentación de software se recomienda incluir los siguientes metadato
 
 *Más técnico*
 
+> Ejemplo:
+>
+>**Software de gestión para una bodega de productos _(Visión)_**
+>
+>- Control de inventario _(Épica)_
+>    - Gestión de proveedores _(Característica)_
+>    - Programación de Alertas _(Característica)_
+>    - Reportes de inventario _(Característica)_
+>    - Gestión de productos _(Característica)_
+>        - Ingresar producto con rol de almacenista _(Caso de uso)_
+>            - Algoritmo de ingreso de producto _(Implementación)_
+
+
 <br>
 
 # Fases de la documentación de software
