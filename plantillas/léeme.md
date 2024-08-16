@@ -3,23 +3,21 @@
 Formato recomendado para escribir archivos Readme para proyectos de software.
 
 ```markdown
-# Título
+
+# [Nombre de licencia]
+
+<!-- Especifica la licencia del proyecto -->
+
+# [Nombre del proyecto]
 
 <!-- Describe brevemente el proyecto -->
 
-
-## Installation
+# Instalación
 
 <!-- Enumera los pasos para instalar el proyecto. Si es necesario, incluye ejemplos de código. -->
 
+# Uso
 
-## Uso
-
-<!-- Explica cómo usar el proyecto con ejemplos -->
-
-
-## Licencia
-
-<!-- Especifica la licencia del proyecto -->
+<!-- Explica con  ejemplos cómo se usa -->
 
 ```
